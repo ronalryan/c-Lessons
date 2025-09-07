@@ -17,6 +17,8 @@ int main()
 
 
     happyBirthday(name, age);
+    happyBirthday(name, age);
+    happyBirthday(name, age);
 
 
     return 0;
